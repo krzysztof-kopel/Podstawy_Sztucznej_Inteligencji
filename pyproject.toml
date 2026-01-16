@@ -13,6 +13,7 @@ dependencies = [
     "jupytext",
     "lightgbm==4.*",
     "matplotlib",
+    "numba>=0.63.1",
     "numpy",
     "opencv-python>=4.11.0.86",
     "pandas",
